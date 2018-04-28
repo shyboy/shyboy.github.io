@@ -30,17 +30,17 @@
   
     
     <entry>
-      <title>All categories</title>
-      <link href="/categories/index.html"/>
-      <url>/categories/index.html</url>
-      <content type="html"><![CDATA[]]></content>
-    </entry>
-    
-    <entry>
       <title>一个普通的人</title>
       <link href="/about/index.html"/>
       <url>/about/index.html</url>
       <content type="html"><![CDATA[<p><strong>超级无敌90后冷笑话</strong><br>问：公交车上一男的踩了你的脚，对你说“我是周杰伦”，你的反应？<br>答：踩回来。以后可以炫耀啦，我踩过周杰伦！ 　 </p>]]></content>
+    </entry>
+    
+    <entry>
+      <title>All categories</title>
+      <link href="/categories/index.html"/>
+      <url>/categories/index.html</url>
+      <content type="html"><![CDATA[]]></content>
     </entry>
     
     <entry>
