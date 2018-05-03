@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://dreamger.com/"/>
-  <updated>2018-04-28T07:08:10.682Z</updated>
+  <updated>2018-05-03T16:33:17.512Z</updated>
   <id>http://dreamger.com/</id>
   
   <author>
@@ -15,6 +15,34 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>python 学习之路</title>
+    <link href="http://dreamger.com/2018/05/04/python_study_togo/"/>
+    <id>http://dreamger.com/2018/05/04/python_study_togo/</id>
+    <published>2018-05-03T16:12:21.000Z</published>
+    <updated>2018-05-03T16:33:17.512Z</updated>
+    
+    <content type="html"><![CDATA[<p class="description">人，总是要进步的，不是吗？</p><a id="more"></a><p>##python编程从入门到实践<br><img src="http://o7rfj6p7p.bkt.clouddn.com/2018-05-04-python-logo-master-v3-TM.png" alt="python-logo-master-v3-TM"></p><h3 id="读书笔记"><a href="#读书笔记" class="headerlink" title="读书笔记"></a>读书笔记</h3><p> <a href="http://dreamger.com/Python_Study/notes/the_second_notes.html">第二章笔记 变量和简单数据类型</a></p><h3 id="作业"><a href="#作业" class="headerlink" title="作业"></a>作业</h3><p><a href="http://dreamger.com/Python_Study/homework/the_second_homework.html">第二章作业 变量和简单数据类型</a></p>]]></content>
+    
+    <summary type="html">
+    
+      个人学习过程的简单汇总
+    
+    </summary>
+    
+      <category term="学习" scheme="http://dreamger.com/categories/%E5%AD%A6%E4%B9%A0/"/>
+    
+      <category term="Python" scheme="http://dreamger.com/categories/%E5%AD%A6%E4%B9%A0/Python/"/>
+    
+    
+      <category term="python" scheme="http://dreamger.com/tags/python/"/>
+    
+      <category term="学习记录" scheme="http://dreamger.com/tags/%E5%AD%A6%E4%B9%A0%E8%AE%B0%E5%BD%95/"/>
+    
+      <category term="汇总" scheme="http://dreamger.com/tags/%E6%B1%87%E6%80%BB/"/>
+    
+  </entry>
   
   <entry>
     <title>写给生命</title>
