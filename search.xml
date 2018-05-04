@@ -1,39 +1,76 @@
 <?xml version="1.0" encoding="utf-8"?>
-<search>
-  <entry>
-    <title><![CDATA[python 学习之路]]></title>
-    <url>%2F2018%2F05%2F04%2Fpython_study_togo%2F</url>
-    <content type="text"><![CDATA[人，总是要进步的，不是吗？ ##python编程从入门到实践 读书笔记 第二章笔记 变量和简单数据类型 作业第二章作业 变量和简单数据类型]]></content>
+<search> 
+  
+    
+    <entry>
+      <title>python 学习之路</title>
+      <link href="/2018/05/04/python_study_togo/"/>
+      <url>/2018/05/04/python_study_togo/</url>
+      <content type="html"><![CDATA[<p class="description">人，总是要进步的，不是吗？</p><a id="more"></a><p>##python编程从入门到实践<br><img src="http://o7rfj6p7p.bkt.clouddn.com/2018-05-04-python-logo-master-v3-TM.png" alt="python-logo-master-v3-TM"></p><h3 id="读书笔记"><a href="#读书笔记" class="headerlink" title="读书笔记"></a>读书笔记</h3><p> <a href="http://dreamger.com/Python_Study/notes/the_second_notes.html">第二章笔记 变量和简单数据类型</a></p><h3 id="作业"><a href="#作业" class="headerlink" title="作业"></a>作业</h3><p><a href="http://dreamger.com/Python_Study/homework/the_second_homework.html">第二章作业 变量和简单数据类型</a></p>]]></content>
+      
       <categories>
-        <category>学习</category>
-        <category>Python</category>
+          
+          <category> 学习 </category>
+          
+          <category> Python </category>
+          
       </categories>
-      <tags>
-        <tag>python</tag>
-        <tag>学习记录</tag>
-        <tag>汇总</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title><![CDATA[写给生命]]></title>
-    <url>%2F2018%2F04%2F28%2Ffor%20life%2F</url>
-    <content type="text"><![CDATA[席慕蓉的写给生命，优美的一个短篇散文 ##写给生命席慕容 我站在月亮底下画铅笔速写。 月亮好亮，我就站在田野的中间用黑色和褐色的铅笔交替地描绘着。 最先要画下的是远处那一排参差的树影，用极重极深的黑来画出它们浓密的枝叶。 在树下是慢慢绵延过来的阡陌，田里种的是番薯，在月光下有着一种浅淡而又细致的光泽。整个天空没有一片云，只有月色和星斗。我能认出来的是猎人星座，就在我的前方，在月亮下面闪耀着，天空的颜色透明又洁净，一如这夜里整个田野的气息。 月亮好亮，在我的速写本上反映出一层柔白的光辉来，所有精略和精密的线条都因此能看得更加清楚，我站在田里，慢慢地一笔一笔地画着，心里很安定也很安静。 家就在十几二十步之外，孩子们都已经做完了功课上床睡觉了，丈夫正在他的灯下写他永远写不完的功课，而我呢?我决定我今天晚上的功课要在月亮底下做。 邻家的狗过来看一看，知道是我之后也就释然了，在周围巡视了几圈之后，干脆就在我的脚旁睡了下来。我家的小狗反倒很不安，不明白我为什么不肯回家，所以它就一会儿跑回去一会儿又跑过来的，在番薯的茎叶间不停地拔弄出细细碎碎的声音。乡间的夜出奇的安静，邻居们都习惯早睡，偶尔有夜归的行人也只是从田野旁边那条小路远远经过，有时候会咳嗽一声，声音从月色里传过来也变得比较轻柔。 多好的月色啊!满月的光辉浸润着整块土地，土地上一切的生命都有了一种在白昼时从来也想象不出的颜色。这样美丽的世界就在我的眼前，既不虚幻也非梦境，只是让人无法置信。 所以，我想，等我把这些速写的稿子整理好，在画布上画出了这种月色之后，恐怕也有一些人会认为我所描绘的是一种虚无的美吧。 我一面画一面禁不住微笑了起来。风从田野那头吹过，在竹林间来回穿梭，月是更高更圆了，整个夜空澄澈无比。 生命里也应该有这样一种澄澈的时刻吧?可以什么也不想什么也不希望，只是一笔一笔慢慢地描摹，在月亮底下，安静地做我自己该做的功课。 对着一班十九、二十岁，刚开始上油画课的学生，我喜欢告诉他们一个故事。 这是我大学同班同学的故事。我这个同学有很好的绘画基础，人又认真，进了大学以后发愿要沿着西方美术史一路画下来，对每一个画派的观念与技法都了解并且实验了之后，再来开创他自己的风格。他认为，只有这样，才能够画出真正扎实的作品来。 一年级的时候，他的风景都是塞尚的，二年级的时候，喜孜孜地向我宣布： “我已经画到野兽派了!” 然后三年级、四年级，然后教书，然后出国，很多年都不通音讯，最后得到的消息是他终于得到了博士学位，成为一个美术史与美术理论方面的专家了。 我每次想到这件事，都不知道是悲是喜。原来要成为一个创作的艺术家，除了要知道吸收许多知识之外，也要懂得排拒许多知识才行的啊!创作本身原来具有一种非常强烈的排他性。一个优秀的艺术家就是在某一方面的表现能够达到极致的人，而因为要走向极致，所以就不可能完全跟着别人的脚步去走，更不可能在自己的一生里走完所有别人曾经走过的路。在艺术的领域里，我们要找到自己的极致，就需要先明白自己的极限，需要先明白自己和别人不尽相同的那一点。 因为不尽相同，所以艺术品才会有这样多不同的面貌。像布朗库西能够把他的“空间之鸟”打磨得那样光滑，让青铜的雕像几乎变成了一种跃动的光与速度。而麦约却要把流动的“河流”停住，在铅质的女体雕像里显示出一种厚重的量感来。毕沙洛的光影世界永远安详平和，而一样的光影在孟克的笔触里却总是充满了颤栗和不安。 每一个优秀的艺术家走到极致的时候，就好像在生命里为我们开了一扇窗户，我们在一扇又一扇不同的风景之前屏息静立，在感动的同时，也要学会选择我们所要的和我们不得不舍弃的。 当然，有些人是例外，就好像在生命里也常有些无法解释的例外一样。 在美术史里，有些例外的艺术家，就像天马行空一般地来去自如，在他们的一生里，几乎就没有所谓“极限”这一件事。 像对那个从天文、数学到物理无所不能，无所不精的达文西，我们该怎么办呢? 也许只能够把他放在一旁，不和他比较了吧?不然，要怎样才能平息我们心中那如火一般燃烧着的羡慕与嫉妒呢? 我相信艺术家都是些善妒的人。]]></content>
+      
+      
+        <tags>
+            
+            <tag> python </tag>
+            
+            <tag> 学习记录 </tag>
+            
+            <tag> 汇总 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    <entry>
+      <title>写给生命</title>
+      <link href="/2018/04/28/for%20life/"/>
+      <url>/2018/04/28/for%20life/</url>
+      <content type="html"><![CDATA[<p class="description">席慕蓉的写给生命，优美的一个短篇散文</p><a id="more"></a><p>##写给生命<br>席慕容</p><p>　　我站在月亮底下画铅笔速写。<br>　　月亮好亮，我就站在田野的中间用黑色和褐色的铅笔交替地描绘着。<br>　　最先要画下的是远处那一排参差的树影，用极重极深的黑来画出它们浓密的枝叶。<br>　　在树下是慢慢绵延过来的阡陌，田里种的是番薯，在月光下有着一种浅淡而又细致的光泽。整个天空没有一片云，只有月色和星斗。我能认出来的是猎人星座，就在我的前方，在月亮下面闪耀着，天空的颜色透明又洁净，一如这夜里整个田野的气息。<br>　　月亮好亮，在我的速写本上反映出一层柔白的光辉来，所有精略和精密的线条都因此能看得更加清楚，我站在田里，慢慢地一笔一笔地画着，心里很安定也很安静。<br>　　家就在十几二十步之外，孩子们都已经做完了功课上床睡觉了，丈夫正在他的灯下写他永远写不完的功课，而我呢?我决定我今天晚上的功课要在月亮底下做。<br>　　邻家的狗过来看一看，知道是我之后也就释然了，在周围巡视了几圈之后，干脆就在我的脚旁睡了下来。我家的小狗反倒很不安，不明白我为什么不肯回家，所以它就一会儿跑回去一会儿又跑过来的，在番薯的茎叶间不停地拔弄出细细碎碎的声音。乡间的夜出奇的安静，邻居们都习惯早睡，偶尔有夜归的行人也只是从田野旁边那条小路远远经过，有时候会咳嗽一声，声音从月色里传过来也变得比较轻柔。<br>　　多好的月色啊!满月的光辉浸润着整块土地，土地上一切的生命都有了一种在白昼时从来也想象不出的颜色。这样美丽的世界就在我的眼前，既不虚幻也非梦境，只是让人无法置信。<br>　　所以，我想，等我把这些速写的稿子整理好，在画布上画出了这种月色之后，恐怕也有一些人会认为我所描绘的是一种虚无的美吧。<br>　　我一面画一面禁不住微笑了起来。风从田野那头吹过，在竹林间来回穿梭，月是更高更圆了，整个夜空澄澈无比。<br>　　生命里也应该有这样一种澄澈的时刻吧?可以什么也不想什么也不希望，只是一笔一笔慢慢地描摹，在月亮底下，安静地做我自己该做的功课。<br>　　<br>　　对着一班十九、二十岁，刚开始上油画课的学生，我喜欢告诉他们一个故事。<br>　　这是我大学同班同学的故事。我这个同学有很好的绘画基础，人又认真，进了大学以后发愿要沿着西方美术史一路画下来，对每一个画派的观念与技法都了解并且实验了之后，再来开创他自己的风格。他认为，只有这样，才能够画出真正扎实的作品来。<br>　　一年级的时候，他的风景都是塞尚的，二年级的时候，喜孜孜地向我宣布：<br>　　“我已经画到野兽派了!”<br>　　然后三年级、四年级，然后教书，然后出国，很多年都不通音讯，最后得到的消息是他终于得到了博士学位，成为一个美术史与美术理论方面的专家了。<br>　　我每次想到这件事，都不知道是悲是喜。原来要成为一个创作的艺术家，除了要知道吸收许多知识之外，也要懂得排拒许多知识才行的啊!创作本身原来具有一种非常强烈的排他性。一个优秀的艺术家就是在某一方面的表现能够达到极致的人，而因为要走向极致，所以就不可能完全跟着别人的脚步去走，更不可能在自己的一生里走完所有别人曾经走过的路。在艺术的领域里，我们要找到自己的极致，就需要先明白自己的极限，需要先明白自己和别人不尽相同的那一点。<br>　　因为不尽相同，所以艺术品才会有这样多不同的面貌。像布朗库西能够把他的“空间之鸟”打磨得那样光滑，让青铜的雕像几乎变成了一种跃动的光与速度。而麦约却要把流动的“河流”停住，在铅质的女体雕像里显示出一种厚重的量感来。毕沙洛的光影世界永远安详平和，而一样的光影在孟克的笔触里却总是充满了颤栗和不安。<br>　　每一个优秀的艺术家走到极致的时候，就好像在生命里为我们开了一扇窗户，我们在一扇又一扇不同的风景之前屏息静立，在感动的同时，也要学会选择我们所要的和我们不得不舍弃的。<br>　　<br>　　当然，有些人是例外，就好像在生命里也常有些无法解释的例外一样。<br>　　在美术史里，有些例外的艺术家，就像天马行空一般地来去自如，在他们的一生里，几乎就没有所谓“极限”这一件事。<br>　　像对那个从天文、数学到物理无所不能，无所不精的达文西，我们该怎么办呢?<br>　　也许只能够把他放在一旁，不和他比较了吧?不然，要怎样才能平息我们心中那如火一般燃烧着的羡慕与嫉妒呢?<br>　　<br>　　我相信艺术家都是些善妒的人。<br>　　<img src="https://ws3.sinaimg.cn/large/006tKfTcly1fqs8kf0g2cj31kw11xe82.jpg" alt="落叶" style="width:100%"></p><hr>]]></content>
+      
       <categories>
-        <category>文学</category>
+          
+          <category> 文学 </category>
+          
       </categories>
-      <tags>
-        <tag>散文</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title><![CDATA[密码测试]]></title>
-    <url>%2F2018%2F04%2F28%2Fcode-test%2F</url>
-    <content type="text"><![CDATA[给文章简单的加个密，密码是 hexo 这是一篇测试文章带密码的文章，来源于辐射工作站的Hexo文章简单加密访问。 具体方式如下： 过程很简单的一个操作，打开博客目录/主题文件夹/layout/_partials/head/head.swig在首句&lt;meta charset=&quot;UTF-8&quot;/&gt;后面插入以下代码： 12345678910&lt;script&gt; (function()&#123; if(&apos;&#123;&#123; page.password &#125;&#125;&apos;)&#123; if (prompt(&apos;请输入文章密码&apos;) !== &apos;&#123;&#123; page.password &#125;&#125;&apos;)&#123; alert(&apos;密码错误&apos;); history.back(); &#125; &#125; &#125;)();&lt;/script&gt; 然后，在需要加密的文章里加进password: 你要设的密码像这样： 12345---title: 文章标题layout: defaultpassword: 123456--- 完成！]]></content>
+      
+      
+        <tags>
+            
+            <tag> 散文 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    <entry>
+      <title>密码测试</title>
+      <link href="/2018/04/28/code-test/"/>
+      <url>/2018/04/28/code-test/</url>
+      <content type="html"><![CDATA[<p class="description">给文章简单的加个密，密码是 hexo</p><a id="more"></a><p> 这是一篇测试文章带密码的文章，来源于辐射工作站的<a href="https://radiastu.com/2017/12/08/Hexo%20文章加密/" target="_blank" rel="noopener">Hexo文章简单加密访问</a>。<br> 具体方式如下：</p><h4 id="过程"><a href="#过程" class="headerlink" title="过程"></a>过程</h4><p>很简单的一个操作，打开<code>博客目录/主题文件夹/layout/_partials/head/head.swig</code>在首句<code>&lt;meta charset=&quot;UTF-8&quot;/&gt;</code>后面插入以下代码：</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br></pre></td><td class="code"><pre><span class="line">&lt;script&gt;</span><br><span class="line">    (function()&#123;</span><br><span class="line">        if(&apos;&#123;&#123; page.password &#125;&#125;&apos;)&#123;</span><br><span class="line">            if (prompt(&apos;请输入文章密码&apos;) !== &apos;&#123;&#123; page.password &#125;&#125;&apos;)&#123;</span><br><span class="line">                alert(&apos;密码错误&apos;);</span><br><span class="line">                history.back();</span><br><span class="line">            &#125;</span><br><span class="line">        &#125;</span><br><span class="line">    &#125;)();</span><br><span class="line">&lt;/script&gt;</span><br></pre></td></tr></table></figure><p>然后，在需要加密的文章里加进password: 你要设的密码<br>像这样：</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line">---</span><br><span class="line">title: 文章标题</span><br><span class="line">layout: default</span><br><span class="line">password: 123456</span><br><span class="line">---</span><br></pre></td></tr></table></figure><p>完成！</p>]]></content>
+      
       <categories>
-        <category>hexo</category>
+          
+          <category> hexo </category>
+          
       </categories>
-      <tags>
-        <tag>Hexo优化</tag>
-      </tags>
-  </entry>
+      
+      
+        <tags>
+            
+            <tag> Hexo优化 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+  
+  
 </search>
